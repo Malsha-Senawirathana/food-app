@@ -1,3 +1,9 @@
+
+/**
+ * @format
+ * this is the change
+ */
+
 import { registerRootComponent } from 'expo';
 
 import App from './App';
